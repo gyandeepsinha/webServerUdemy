@@ -1,0 +1,1 @@
+console.log('I am calling from script.js');

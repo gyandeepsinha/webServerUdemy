@@ -1,0 +1,10 @@
+header a{
+    font-family: Arial;
+    color:#333333;
+    text-decoration: none;
+}
+
+footer{
+    margin: 15px;
+    border-top: 1px solid gray;
+}
